@@ -55,7 +55,7 @@ var weatherDisplayEl = document.getElementById("displayweather");
 var weatherIconEl = document.getElementById("weather-icon");
 // API key, initialize empty arrays for cities, city history, and weather data
 
-var apiKey = "73008c5a91dd638f59dc16168940c502";
+var apiKey = "3770ba1e75602dfbcaaef48428399912";
 var cities=[];
 var city_history=[];
 var temps=[6];
